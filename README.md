@@ -90,9 +90,9 @@ src/
 
 ### Explanation of Key Files
 
-- **`src/components/CallList/CallList.tsx`**: Основной компонент для отображения списка звонков и фильтрации.
-- **`src/components/CellTable/CellTable.tsx`**: Компонент таблицы, отображающий звонки.
-- **`src/components/CustomAudioPlayer/CustomAudioPlayer.tsx`**: Кастомный аудиоплеер для воспроизведения записей звонков.
+- **`src/components/CallList/CallList.tsx`**: The main component for call list display and filtering.
+- **`src/components/CellTable/CellTable.tsx`**: A table component that displays calls.
+- **`src/components/CustomAudioPlayer/CustomAudioPlayer.tsx`**: Custom audio player for playing call recordings.
 
 ## Comments
 
